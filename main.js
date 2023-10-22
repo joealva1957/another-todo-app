@@ -67,5 +67,3 @@ let createTasks = () => {
     dateInput.value = "";
     textarea.value = "";
   };
-
-  
