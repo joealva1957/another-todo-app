@@ -59,13 +59,11 @@ let createTasks = () => {
       `);
   });
 
-<<<<<<< HEAD
   let resetForm = () => {
     textInput.value = "";
     dateInput.value = "";
     textarea.value = "";
   };
-=======
   resetForm();
 };
 
@@ -84,4 +82,3 @@ let deleteTask = (e) => {
 
   console.log(data);
 };
->>>>>>> function-delete-a-task
