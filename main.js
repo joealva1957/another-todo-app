@@ -82,8 +82,6 @@ let deleteTask = (e) => {
 
   console.log(data);
 };
-<<<<<<< HEAD
-=======
 
 let editTask = (e) => {
   let selectedTask = e.parentElement.parentElement;
@@ -100,4 +98,3 @@ let editTask = (e) => {
   console.log(data);
   createTasks();
 })();
->>>>>>> function-edit-a-task
